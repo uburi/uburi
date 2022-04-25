@@ -1,4 +1,4 @@
-### Hi there 👋
+### E aí, meu chamo Geovane 👋
 
 <!--
 **uburi/uburi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <a href="https://github.com/uburi">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=uburi&show_icons=true&theme=dark" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uburi&layout=compact&show_icons=true&theme=dark" />
+</div>
+  
+<a href="https://www.linkedin.com/in/geovaneassuncao/" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
