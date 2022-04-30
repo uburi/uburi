@@ -18,8 +18,8 @@
 -->
 <div>
   <a href="https://github.com/uburi">
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=uburi&show_icons=true&theme=dark" />
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uburi&layout=compact&show_icons=true&theme=dark" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=uburi&show_icons=true&theme=dark" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uburi&layout=compact&theme=dark" />
 </div>
  <div>
 <img align="right" width="350" src="https://media1.giphy.com/media/12shQyP6KMXCZW/giphy.gif?cid=ecf05e47c1ji6ccnzjs0cnojjhw0xy3zse2uu3dsmnia7oz7&rid=giphy.gif&ct=g" />
