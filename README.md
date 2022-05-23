@@ -22,8 +22,7 @@
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uburi&layout=compact&theme=dark" />
 </div>
  <div>
-<img align="right" width="350" src="https://media1.giphy.com/media/12shQyP6KMXCZW/giphy.gif?cid=ecf05e47c1ji6ccnzjs0cnojjhw0xy3zse2uu3dsmnia7oz7&rid=giphy.gif&ct=g" />
-<h2>Detailed information</h2>
+<h2>Detailed information </h2>
   <ul>
     <li><strong>Name:</strong> Geovane Assunção</li>
     <li><strong>Age:</strong> 20 years</li>
