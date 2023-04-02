@@ -26,7 +26,7 @@
   <ul>
     <li><strong>Name:</strong> Geovane Assunção</li>
     <li><strong>University:</strong> UCSal - Software Engineering</li>
-    <li><strong>Stack:</strong> Java, JavaScript, HTML, CSS, SQL Server</li> 
+    <li><strong>Stack:</strong> C#, .NET, JavaScript, HTML, CSS, SQL Server</li> 
     <li><strong>Studying:</strong> Node.js and UX-UI</li> 
    </ul>
 
