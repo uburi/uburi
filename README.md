@@ -27,7 +27,7 @@
     <li><strong>Name:</strong> Geovane Assunção</li>
     <li><strong>University:</strong> UCSal - Software Engineering</li>
     <li><strong>Stack:</strong> C#, .NET, JavaScript, HTML, CSS, SQL Server</li> 
-    <li><stronng>Meu portfólio: <a href="https://uburi.github.io/portfolio"></li>
+    <li><stronng>Meu portfólio: <a "https://uburi.github.io/portfolio"></li>
    </ul>
 
   </div>
